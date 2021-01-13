@@ -1,0 +1,49 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+.logo img{
+    width: 60px;
+    margin-right: 5px;
+   
+}
+.btn-hero{
+    background-color:  #A4BC46;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+}
+.lady img{
+   width: 80%;
+}
+.jacket img{
+    width: 70%;
+    padding: 10px;
+    border: 0px !important;
+}
+.jacket1 img{
+    width: 55%;
+    padding: 10px;
+    border: 0px !important;
+}
+.dollar{
+background-color: #F1F1F1;
+border: 0px;
+font-size: 20px;
+padding: 5px;
+margin: 5px;
+color: #FABE4C;
+font-weight: bold;
+
+}
+.sidebarcontent img{
+    width: 30%;
+    height: 30%;
+    padding-right: 15px;
+}
+.maincontent img{
+    width: 100%;
+}
